@@ -18,7 +18,7 @@ const About = () => {
             </div>
             <div>
               <p>I am passionate full Stack Developer Skilled in building Excellent software that improves
-              the lives of those around me. Whenever I enocounter Any website i just try to improve thier Features, Behaviour,User experiences of that website </p>  
+              the lives of those around me. Whenever I encounter Any website i just try to improve their Features, Behaviour,User experiences of that website </p>  
             </div>
           </div>
       </div>
